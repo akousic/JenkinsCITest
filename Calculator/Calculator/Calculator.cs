@@ -23,9 +23,11 @@ namespace Calculator
             return a - b;
         }
 
-        public int Mul(int a, int b)
+        public int Mu(int a, int b)
         {
             return a * b;
         }
+
+        
     }
 }
